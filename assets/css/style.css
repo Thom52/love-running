@@ -206,7 +206,7 @@ hr {
 /* Sign-up Page */
 
 #signup {
-    background: url(../images/signup-image.webp) no-repeat center / cover;
+    background: url(../images/signup-image.webp) no-repeat center/cover;
     background-position: 75%;
     flex-grow: 1;
     padding: 20px 10% 0;
